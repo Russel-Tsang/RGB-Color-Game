@@ -5,8 +5,8 @@ I decided to create a similar project using React.
 
 
 #### What's being used? 
-React for managing the presentation logic of the application.
-CSS for designs
+- React for managing the presentation logic of the application.
+- CSS for designs
 
 
 ## Getting Started
