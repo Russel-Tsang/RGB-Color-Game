@@ -1,3 +1,11 @@
+# RGB Color Game
+
+This project was inspired by Colt Steele's RGB Color Game. I decided to create a similar game using React instead of VanillaJS.
+
+##### What was used?
+- React, to handle the presentation logic of this application
+- CSS, for styling
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
